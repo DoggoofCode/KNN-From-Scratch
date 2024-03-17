@@ -41,6 +41,6 @@ def KNN(data, k, new_point, answer):
 
 
 try:
-    print(KNN(DATA, K, [140, 1], ANSWER))
+    print(KNN(DATA, K, ["INSERT VALUE", "INSERT VALUE"], ANSWER))
 except Exception as e:
     print(f"exception @ {e}")
